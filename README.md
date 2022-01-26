@@ -7,13 +7,13 @@ There is currently is no requirement for registration to use their service.<br/>
 <br/>
 
 The CipherCoin™ is a bespoke, laser processed coin where there is etched the owners' PASSWORD PROTECTED BIP0038 PRIVATE KEY.
-The funds stored in the coin can not be spent unless the person has _both_the BIP0038 private key **and** the encrypted private key.
+The funds stored in the coin can not be spent unless the person has _both_ the BIP0038 private key **and** the encrypted private key.
 
 <br/>
 
 ## IMPORTANT
 
-**When submitting your private key to us, make sure that the private key is ENCRYPTED. BIP0038 private keys start with "6P.."**
+**When submitting your private key to us, make sure that the private key is ENCRYPTED. BIP0038 private keys start with "6P..".**
 
 ![QRCode Webpage04](https://user-images.githubusercontent.com/97874862/151130372-af3b3f74-b6f4-4661-b816-c685d17c7f80.png)
 <br/>
@@ -44,8 +44,14 @@ Save the file as a **SVG** file.
 The SVG file format is recommended as it is a vector image(image derived from a mathematical formula) vs 'raster' images which are bitmaps.<br/>
 A vector will allow more accuracy when setting up the artwork for the laser process.
 
-When you have the QR code read, you can join the CipherSechs™ matrix room and message the admin.
+## Examples
+
+![QRCode Sample ALL](https://user-images.githubusercontent.com/97874862/151136504-9057c007-1687-4777-bc48-cd60acf283c4.png)
+
+When you have the QR code ready to send in; you can join the CipherSechs™ Matrix room and message the admin.
 https://matrix.to/#/#cs_public:matrix.org
+
+<br/>
 
 ## Element on Matrix
 
