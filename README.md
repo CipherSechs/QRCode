@@ -41,5 +41,12 @@ Save the file as a **SVG** file.
 
 ![QRCode Webpage03](https://user-images.githubusercontent.com/97874862/151126736-6194eefb-9daa-42a1-b727-6962cf57e5d6.png)
 
-The SVG file format is recommended as it is a vector image(image derived from a mathematical formula) vs 'raster' images which are bitmaps.
+The SVG file format is recommended as it is a vector image(image derived from a mathematical formula) vs 'raster' images which are bitmaps.<br/>
 A vector will allow more accuracy when setting up the artwork for the laser process.
+
+When you have the QR code read, you can join the CipherSechs™ matrix room and message the admin.
+https://matrix.to/#/#cs_public:matrix.org
+
+We prefer submission using the End to End Encrypted messenger Element vs email as you are able to ascertain that it is only **_you_** that is logged in on that messenger service.  No other third party is able to log onto your Element messenger without having to be verified by you, and previous sessions/messages are not able to be decrypted without the security key and passphrase.
+
+![QRCode Webpage05](https://user-images.githubusercontent.com/97874862/151133580-305acc8e-ed2e-42b7-bf77-220b05db8fb9.png)
