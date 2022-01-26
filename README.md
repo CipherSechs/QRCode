@@ -47,6 +47,9 @@ A vector will allow more accuracy when setting up the artwork for the laser proc
 When you have the QR code read, you can join the CipherSechs™ matrix room and message the admin.
 https://matrix.to/#/#cs_public:matrix.org
 
-We prefer submission using the End to End Encrypted messenger Element vs email as you are able to ascertain that it is only **_you_** that is logged in on that messenger service.  No other third party is able to log onto your Element messenger without having to be verified by you, and previous sessions/messages are not able to be decrypted without the security key and passphrase.
+## Element on Matrix
+
+We prefer submission using the End to End Encrypted messenger [Element](https://element.io/) vs email, discord, dropbox, metal as the information is not on any 3rd party servers, as you are able to ascertain in real-time that it is only **_you_** that is logged in on that messenger service.<br/>
+Additionally, no other third party is able to log onto your Element messenger without having to be verified by you, and previous sessions/messages are not able to be decrypted without the security key and passphrase.
 
 ![QRCode Webpage05](https://user-images.githubusercontent.com/97874862/151133580-305acc8e-ed2e-42b7-bf77-220b05db8fb9.png)
