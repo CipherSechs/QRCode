@@ -55,7 +55,7 @@ https://matrix.to/#/#cs_public:matrix.org
 
 ## Element on Matrix
 
-We prefer submission using the End to End Encrypted messenger [Element](https://element.io/) vs email, discord, dropbox, metal as the information is not on any 3rd party servers, as you are able to ascertain in real-time that it is only **_you_** that is logged in on that messenger service.<br/>
-Additionally, no other third party is able to log onto your Element messenger without having to be verified by you, and previous sessions/messages are not able to be decrypted without the security key and passphrase.
+We prefer submission using the End to End Encrypted messenger [Element](https://element.io/) vs email, discord, dropbox, Mega link; as the information is not on any 3rd party servers, and you are able to ascertain in real-time that it is only **_you_** that is logged in on that messenger service(refer to picture below).<br/>
+Additionally, no other third party is able to log onto your Element messenger without having to be verified by you, and previous sessions/messages are not able to be decrypted without the Element security key and passphrase.
 
 ![QRCode Webpage05](https://user-images.githubusercontent.com/97874862/151133580-305acc8e-ed2e-42b7-bf77-220b05db8fb9.png)
